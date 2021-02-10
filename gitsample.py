@@ -1,4 +1,6 @@
 def sum(x,y):
-          return
+          return x+y
 def diff(x,y):
-          return
+          return x-y
+def mul(x,y):
+          return x*y
